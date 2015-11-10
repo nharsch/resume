@@ -56,6 +56,6 @@ Proficient in **HTML**, **CSS**, **Javascript** <br />
 Basic understanding of **C** and **Lisp** (Scheme and Clojurescript) <br />
 
 ## Personal Projects
-[Todo App](http://todo.nigelharsch.com)
+* [Todo App](http://todo.nigelharsch.com)
 
 
