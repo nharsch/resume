@@ -56,7 +56,11 @@ Boostrap, Javascript, Postgresql
 
 ## Personal Projects
 ###[Todo App](http://todo.nigelharsch.com)
-Built while working through Test Driven Development with Python
+Django/Python app, built while working through Test Driven Development with Python
+
+###[Hack the Dinos challenge](https://github.com/HackTheDinos/pyard-bone-scripts)
+Python scripts to clean data and generate web-ready proxy files. 
+Built during 2015 "Hack the Dinos" 24 hour hackathon.
 
 ## Education:
 B.A. in Communication Arts, North Park University - Graduated 2010
