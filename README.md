@@ -1,10 +1,10 @@
 # Nigel Harsch
 
 ---
-332 Rogers Avenue Apt F9 - Brooklyn, NY 11216 <br />
-574-850-7911 - nigelharsch@gmail.com <br />
-[github](http://github.com/nharsch) - 
-[linkedin](http://linkedin.com/in/nigelharsch) - 
+332 Rogers Avenue Apt F9 - Brooklyn, NY 11216<br />
+574-850-7911 - nigelharsch@gmail.com<br />
+[github](http://github.com/nharsch) -
+[linkedin](http://linkedin.com/in/nigelharsch) -
 [website](http://nigelharsch.com)
 
 ---
