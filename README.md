@@ -1,6 +1,6 @@
 # Nigel Harsch
 
---- 
+---
 332 Rogers Avenue Apt F9 - Brooklyn, NY 11216 <br />
 574-850-7911 - nigelharsch@gmail.com <br />
 [github](http://github.com/nharsch) - 
@@ -8,7 +8,7 @@
 [website](http://nigelharsch.com)
 
 ---
-## Technical Skills 
+## Technical Skills
 Object Oriented Programming, MVC, RESTful Architecture, 
 Automated Testing Python/Django web development, Flask, SQLAlchemy, Selenium
 Boostrap, Javascript, Postgresql
