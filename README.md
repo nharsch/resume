@@ -62,6 +62,9 @@ Django/Python app, built while working through Test Driven Development with Pyth
 Python scripts to clean data and generate web-ready proxy files. 
 Built during 2015 "Hack the Dinos" 24 hour hackathon.
 
+## Volunteer
+Leads weekly "Learn Python the Hard Way" night at Indemand.
+
 ## Education:
 B.A. in Communication Arts, North Park University - Graduated 2010
 
