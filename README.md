@@ -15,8 +15,18 @@ Boostrap, Javascript, Postgresql
 
 ## Work Experience
 
+### Thelab
+**Full Stack Developer, March 2016 - Present**
+
+* Backend/Frontend development and support for client web and mobile apps
+* Built integration tools to connect modern web apps to legacy enterprise systems
+* Maintain configs for Kubernetes projects on Openshift
+* Help maintain open source tools built in house
+* Worked on projects using: Django, Django Rest Framework, Wagtail, Django-Oscar,
+React, React-Native, Backbone JS, Node/NPM, Webpack, Docker, Kubernetes
+
 ### iNDemand
-**Programmer/Analyst, June 2015 - Present**
+**Programmer/Analyst, June 2015 - February 2016**
 
 * Developed new features for core business Django applications
 * Created tests, documentation and automated deployment for legacy applications
@@ -63,7 +73,7 @@ Python scripts to clean data and generate web-ready proxy files.
 Built during 2015 "Hack the Dinos" 24 hour hackathon.
 
 ## Volunteer
-Host and lead weekly "Learn Python the Hard Way" night at Indemand.
+Hosts weekly "Learn Python the Hard Way" night at Indemand.
 
 ## Education:
 B.A. in Communication Arts, North Park University - Graduated 2010
