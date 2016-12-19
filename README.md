@@ -9,7 +9,7 @@ nigelharsch@gmail.com<br />
 
 ---
 ## Technical Skills
-Object Oriented Programming, MVC, RESTful Architecture, 
+Object Oriented Programming, MVC, RESTful Architecture,
 Automated Testing Python/Django web development, Flask, SQLAlchemy, Selenium
 Boostrap, Javascript, Postgresql
 
