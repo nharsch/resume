@@ -1,3 +1,3 @@
 build:
-	gimli README.md -outputfilename NigelHarsch_Resume
+	mdpdf README.md -o NigelHarsch_Resume.pdf
 	git add NigelHarsch_Resume.pdf
