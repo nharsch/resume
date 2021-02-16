@@ -1,23 +1,20 @@
 # Nigel Harsch
 
----
-433 W Duarte Rd apt F
-Arcadia, CA
-91007
-nigelharsch@gmail.com<br />
-[github](http://github.com/nharsch) -
-[linkedin](http://linkedin.com/in/nigelharsch) -
-[website](http://nigelharsch.com)
+## Contact
+nigelharsch@gmail.com
 
----
+[github](http://github.com/nharsch) - [linkedin](http://linkedin.com/in/nigelharsch) - [website](http://nigelharsch.com)
+
 ## Technical Skills
-React+Redux, Typescript, Django, RESTful API design, Python, Linux, Bash scripting, Docker
-Automated Testing, Python, SQL, AWS, Terraform
+React+Redux, Typescript, Django, RESTful API design, Python, Linux, Bash scripting, Docker,
+Automated Testing (with Selenium), Python, SQL, AWS, Terraform
 
 ## Work Experience
 
 ### Thelab
 **Full Stack Developer, March 2016 - Present**
+
+Front End and Back End web development for digital arts agency. Long term support for major ecommerce clients.
 
 * Backend/Frontend development and support for client web and mobile apps
 * Built integration tools and micro services to connect modern web apps to legacy enterprise systems
@@ -33,4 +30,4 @@ React, React-Native, Node/NPM, Webpack, Docker, AWS
 * Respond quickly to questions and requests from user community
 
 ## Education
-B.A. in Communication Arts, North Park University - Graduated 2010
+B.A. in Communication Arts, North Park University - Class of 2010
