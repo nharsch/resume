@@ -15,6 +15,7 @@ Automated Testing (with Selenium), SQL, p5.js
 
 ### thelab
 2016 - Present
+
 **Full Stack Developer, March 2016 - Present**
 
 Front End and Back End web development for digital arts agency. Long term support for major ecommerce clients.
@@ -27,12 +28,14 @@ React, React-Native, Node/NPM, Webpack, Docker, AWS
 
 ### Asuza Pacific University
 2022 - Present
+
 **Instructor - Sound for Games**
 
 Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates.
 
 ### iNDemand
 2014 - 2016
+
 **Programmer/Analyst**
 * Maintain internal Python/Django web apps
 * Media workflow automation with python scripts
