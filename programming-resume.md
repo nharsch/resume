@@ -25,6 +25,12 @@ Front End and Back End web development for digital arts agency. Long term suppor
 * Worked on projects using: Django, Django Rest Framework, Wagtail, Django-Oscar,
 React, React-Native, Node/NPM, Webpack, Docker, AWS
 
+### Asuza Pacific University
+2022 - Present
+**Instructor - Sound for Games**
+
+Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates.
+
 ### iNDemand
 2014 - 2016
 **Programmer/Analyst**
