@@ -1,5 +1,5 @@
 # Nigel Harsch
-nigelharsch.com
+[nigelharsch.com](nigelharsch.com)
 
 ### Top Skills
 Clojure, Clojurescript, Python, Django, React, Typescript, AWS, Terraform, Docker, SQL
@@ -12,7 +12,7 @@ Clojure, Clojurescript, Python, Django, React, Typescript, AWS, Terraform, Docke
 
 **Data Engineer**
 
-* Help build and maintain Data Warehouse and Data Pipeline for large enterprise corporation.
+* Helped build and maintain Data Warehouse and Data Pipeline for large enterprise corporation
 * Core Developer
 * Devops Engineer
 * Tools used
@@ -78,7 +78,7 @@ Front End and Back End web development for digital arts agency. Long term suppor
 
 **Instructor - Sound for Games**
 
-* Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates.
+* Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates
 * Built Course website with interactive sound tutorials
 
 
