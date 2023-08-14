@@ -74,7 +74,7 @@ Front End and Back End web development for digital arts agency. Long term suppor
     - SQS
 
 ### [Asuza Pacific University](https://apu.edu/)
-2022 - Present
+2022 - 2023
 
 **Instructor - Sound for Games**
 
