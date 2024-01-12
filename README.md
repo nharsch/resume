@@ -7,8 +7,18 @@ Clojure, Clojurescript, Python, Django, React, Typescript, AWS, Terraform, Docke
 
 ## Work Experience
 
+### Thelab
+Nov 2023 - Present
+
+**Technical Product Manager**
+
+* Sprint Planning
+* Requirements gathering and documentation
+* Active development
+* Customer Insight Analytics
+
 ### [Vallen](https://www.vallen.com/)
-2023 - Present
+Jan 2023 - Nov 2023
 
 **Data Engineer**
 
