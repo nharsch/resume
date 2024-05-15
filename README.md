@@ -7,18 +7,28 @@ Clojure, Clojurescript, Python, Django, React, Typescript, AWS, Terraform, Docke
 
 ## Work Experience
 
-### Thelab
-Nov 2023 - Present
+### [thelab](https://thelabnyc.com/)
+2023 - Present
 
 **Technical Product Manager**
 
-* Sprint Planning
-* Requirements gathering and documentation
-* Active development
-* Customer Insight Analytics
+* Oversee development for core platform features
+* Point of contact for client
+* Requirements gathering, project planning, documentation
+* Sprint planning and management
+* Translate technical requirements to everyday language for clients
+* Writing automated end-to-end testing
+* Tools used
+  - Redmine
+  - Lucidchart + Memaid.js
+  - Playwright
+  - Cypress
+  - Python + Django
+  - Typescript + React
 
-### [Vallen](https://www.vallen.com/)
-Jan 2023 - Nov 2023
+
+### [Vallen](https://www.vallen.com/) (on contract through Insight Global)
+2023
 
 **Data Engineer**
 
@@ -29,13 +39,13 @@ Jan 2023 - Nov 2023
   - Clojure
   - Postgres
   - SQLServer
-  - C#
   - Azure
-   - AKS
   - Kubernetes
+   - AKS
   - Apache Airflow
   - Terraform
   - Helm
+  - C#
 
 ### [Cedar Pine Consulting](https://cedarpineconsulting.com/)
 2022 - Present
@@ -63,7 +73,11 @@ Front End and Back End web development for digital arts agency. Long term suppor
 
 * Backend/Frontend development and support for client web and mobile apps
 * Built integration tools and micro services to connect modern web apps to legacy enterprise systems
-* Build and maintain open source libraries
+* Contirubte to and maintain open source libraries
+  - django-oscar-bluelight
+  - django-oscar-api-checkout
+  - django-oscar-wfrs
+  - django-oscar-cybersource
 * Tools used:
   - Python
   - Django 
@@ -84,12 +98,15 @@ Front End and Back End web development for digital arts agency. Long term suppor
     - SQS
 
 ### [Asuza Pacific University](https://apu.edu/)
-2022 - Present
+2022 - 2023
 
 **Instructor - Sound for Games**
 
 * Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates
 * Built Course website with interactive sound tutorials
+* Tools used
+  - Unity + C# scripting
+  - FMOD
 
 
 ### [INDemand](https://www.indemand.com/)
