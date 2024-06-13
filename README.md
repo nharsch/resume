@@ -2,7 +2,7 @@
 [nigelharsch.com](nigelharsch.com)
 
 ### Top Skills
-Clojure, Clojurescript, Python, Django, React, Typescript, AWS, Terraform, Docker, SQL
+Python, Djnago, React, TypeScript, Clojure, Clojurescript, AWS, Terraform, Docker, SQL
 
 
 ## Work Experience
