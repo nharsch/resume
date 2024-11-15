@@ -2,7 +2,17 @@
 [nigelharsch.com](nigelharsch.com)
 
 ### Top Skills
-Python, Djnago, React, TypeScript, Clojure, Clojurescript, AWS, Terraform, Docker, SQL
+- Backend Development
+  - Python/Django
+  - Clojure
+  - Node, Objection.js
+  - SQL
+- DevOps
+  - AWS
+  - Terraform
+- Frontend Development
+  - Clojurescript
+  - React + Redux
 
 
 ## Work Experience
@@ -13,18 +23,18 @@ Python, Djnago, React, TypeScript, Clojure, Clojurescript, AWS, Terraform, Docke
 **Technical Product Manager**
 
 * Oversee development for core platform features
-* Point of contact for client
+* Point-of-contact for client
 * Requirements gathering, project planning, documentation
 * Sprint planning and management
 * Translate technical requirements to everyday language for clients
 * Writing automated end-to-end testing
+* Researching and Scoping new feature requests
 * Tools used
   - Redmine
   - Lucidchart + Memaid.js
   - Playwright
-  - Cypress
-  - Python + Django
-  - Typescript + React
+  - Grafana
+  - Obsidian
 
 
 ### [Vallen](https://www.vallen.com/) (on contract through Insight Global)
@@ -41,16 +51,13 @@ Python, Djnago, React, TypeScript, Clojure, Clojurescript, AWS, Terraform, Docke
   - SQLServer
   - Azure
   - Kubernetes
-   - AKS
-  - Apache Airflow
   - Terraform
-  - Helm
   - C#
 
 ### [Cedar Pine Consulting](https://cedarpineconsulting.com/)
 2022 - Present
 
-**Consulting Full Stack Developer and Data Engineer**
+**Consulting Data Engineer**
 
 * Collaborated with Project Lead on Data Architecture
 * Design and implementation of custom "Form Builder" Application with JSON Schema
@@ -60,14 +67,13 @@ Python, Djnago, React, TypeScript, Clojure, Clojurescript, AWS, Terraform, Docke
   - Next.js
   - React
   - JSON Schema
-  - AJX
   - Postgres
   - Tableau
 
 ### [thelab](https://thelabnyc.com/)
 2016 - 2022
 
-**Senior Full Stack Developer, March 2016 - Present**
+**Senior Full Stack Developer**
 
 Front End and Back End web development for digital arts agency. Long term support for major ecommerce clients.
 
@@ -86,16 +92,14 @@ Front End and Back End web development for digital arts agency. Long term suppor
   - Django-Oscar
   - TypeScript
   - React
-  - React-Native
   - Node/NPM 
   - Docker, docker-compose
   - Terraform
   - AWS
     - ECS
     - Lambda
-    - Step Functions
     - RDS
-    - SQS
+    - Kinesis
 
 ### [Asuza Pacific University](https://apu.edu/)
 2022 - 2023
