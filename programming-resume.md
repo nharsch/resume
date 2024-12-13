@@ -1,81 +1,50 @@
-# Nigel Harsch
-[nigelharsch.com](nigelharsch.com)
+# Nigel Harsch - Full Stack Developer
+[nigelharsch.com](https://nigelharsch.com) | [LinkedIn](https://linkedin.com/in/nigelharsch) | [github](https://github.com/nharsch)
 
 ### Top Skills
-- Backend Development
-  - Python/Django
-  - Clojure
-  - Node, Objection.js
-  - SQL
-- DevOps
-  - AWS
-  - Terraform
-- Frontend Development
-  - Clojurescript
-  - React + Redux
+Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, React
 
 
 ## Work Experience
 
-### [thelab](https://thelabnyc.com/)
+### [thelab](https://thelab.co)
 2023 - Present
 
 **Technical Product Manager**
 
-* Oversee development for core platform features
-* Point-of-contact for client
-* Requirements gathering, project planning, documentation
+* Oversaw development for core platform features
 * Sprint planning and management
-* Translate technical requirements to everyday language for clients
-* Writing automated end-to-end testing
-* Researching and Scoping new feature requests
-* Tools used
-  - Redmine
-  - Lucidchart + Memaid.js
-  - Playwright
-  - Grafana
-  - Obsidian
+* Technical liason for clients
+* Requirements gathering, project planning, scoping new features
+* Create site performance metrics dashboards
+* Writing documentation
+* Writing automated browser testing
+* Tools used: Redmine, Memaid.js, Playwright, Obsidian, Grafana
 
-
-### [Vallen](https://www.vallen.com/) (on contract through Insight Global)
-2023
-
-**Data Engineer**
-
-* Helped build and maintain Data Warehouse and Data Pipeline for large enterprise corporation
-* Core Developer
-* Devops Engineer
-* Tools used
-  - Clojure
-  - Postgres
-  - SQLServer
-  - Azure
-  - Kubernetes
-  - Terraform
-  - C#
-
-### [Cedar Pine Consulting](https://cedarpineconsulting.com/)
+### [Cedar Pine Consulting](https://cedarpineconsulting.com)
 2022 - Present
 
 **Consulting Data Engineer**
 
 * Collaborated with Project Lead on Data Architecture
-* Design and implementation of custom "Form Builder" Application with JSON Schema
+* Design and implementation of custom "Form Builder" Application
 * Work directly with client on requirements gathering
-* Work directly with client data analytics
-* Tools used:
-  - Next.js
-  - React
-  - JSON Schema
-  - Postgres
-  - Tableau
+* Research and implement data reporting tools
+* Tools used: Next.js, Objection.js, Knex, Metabase, React, JSON Schema, PostgreSQL
 
-### [thelab](https://thelabnyc.com/)
+### [Vallen](https://vallen.com) 
+2023 (one year contract)
+
+**Data Engineer**
+
+* Maintain Data Warehouse and Data Pipeline for large enterprise corporation
+* Lead major rafactor of core app (upgrading HoneySQL)
+* Tools used: Clojure HoneySQL, PostgreSQL, Azure, Kubernetes, Terraform
+
+### [thelab](https://thelab.co)
 2016 - 2022
 
 **Senior Full Stack Developer**
-
-Front End and Back End web development for digital arts agency. Long term support for major ecommerce clients.
 
 * Backend/Frontend development and support for client web and mobile apps
 * Built integration tools and micro services to connect modern web apps to legacy enterprise systems
@@ -85,45 +54,17 @@ Front End and Back End web development for digital arts agency. Long term suppor
   - django-oscar-wfrs
   - django-oscar-cybersource
 * Tools used:
-  - Python
-  - Django 
-  - Django Rest Framework
-  - Wagtail
-  - Django-Oscar
-  - TypeScript
-  - React
-  - Node/NPM 
-  - Docker, docker-compose
-  - Terraform
-  - AWS
-    - ECS
-    - Lambda
-    - RDS
-    - Kinesis
+  - Python, Django, Django Rest Framework, Django Wagtail, Django Oscar
+  - TypeScript, React, Redux
+  - Docker, docker-compose, Terraform, AWS
 
-### [Asuza Pacific University](https://apu.edu/)
-2022 - 2023
-
-**Instructor - Sound for Games**
-
-* Teaching Sound Design fundamentals, Unity, FMOD, C# scripting for Unity to undergraduates
-* Built Course website with interactive sound tutorials
-* Tools used
-  - Unity + C# scripting
-  - FMOD
-
-
-### [INDemand](https://www.indemand.com/)
+### [INDemand](https://indemand.com)
 2014 - 2016
 
 **Programmer/Analyst**
 * Maintain internal Python/Django web apps
 * Media workflow automation with python scripts
-* Tools used:
-  - Python 
-  - Django 
-  - Javascript 
-  - FFMPEG
+* Tools used: Python, Django, Javascript 
 
 
 ## Education
