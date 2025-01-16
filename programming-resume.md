@@ -1,5 +1,5 @@
 # Nigel Harsch - Full Stack Developer
-[nigelharsch.com](https://nigelharsch.com) | [LinkedIn](https://linkedin.com/in/nigelharsch) | [github](https://github.com/nharsch)
+[nigelharsch.com](https://nigelharsch.com) | [LinkedIn](https://linkedin.com/in/nigelharsch) | [GitHub](https://github.com/nharsch)
 
 ### Top Skills
 Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, React
@@ -14,7 +14,7 @@ Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, R
 
 * Oversaw development for core platform features
 * Sprint planning and management
-* Technical liason for clients
+* Technical liaison for clients
 * Requirements gathering, project planning, scoping new features
 * Create site performance metrics dashboards
 * Writing documentation
@@ -38,7 +38,7 @@ Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, R
 **Data Engineer**
 
 * Maintain Data Warehouse and Data Pipeline for large enterprise corporation
-* Lead major rafactor of core app (upgrading HoneySQL)
+* Lead major refactor of core app (upgrading HoneySQL)
 * Tools used: Clojure HoneySQL, PostgreSQL, Azure, Kubernetes, Terraform
 
 ### [thelab](https://thelab.co)
