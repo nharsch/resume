@@ -26,19 +26,19 @@ Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, R
 
 **Consulting Data Engineer**
 
-* Collaborated with Project Lead on Data Architecture
+* Data Architect
 * Design and implementation of custom "Form Builder" Application
 * Work directly with client on requirements gathering
 * Research and implement data reporting tools
-* Tools used: Next.js, Objection.js, Knex, Metabase, React, JSON Schema, PostgreSQL
+* Tools used: AWS, Next.js, Objection.js, Knex, React, JSON Schema, PostgreSQL
 
 ### [Vallen](https://vallen.com) 
 2023 (one year contract)
 
 **Data Engineer**
 
-* Maintain Data Warehouse and Data Pipeline for large enterprise corporation
-* Lead major refactor of core app (upgrading HoneySQL)
+* Maintain data warehouse for large enterprise corporation
+* Contributed to major refactor of core data warehouse application
 * Tools used: Clojure HoneySQL, PostgreSQL, Azure, Kubernetes, Terraform
 
 ### [thelab](https://thelab.co)
@@ -68,4 +68,4 @@ Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, R
 
 
 ## Education
-B.A. in Communication Arts, North Park University - Class of 2010
+B.A. in Communication Arts, North Park University
