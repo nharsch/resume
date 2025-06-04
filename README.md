@@ -39,7 +39,7 @@ Project Management, Web Development, Clojure, Python, Django, PostgreSQL, AWS, R
 
 * Maintain data warehouse for large enterprise corporation
 * Contributed to major refactor of core data warehouse application
-* Tools used: Clojure HoneySQL, PostgreSQL, Azure, Kubernetes, Terraform
+* Tools used: Clojure HoneySQL, Specter, PostgreSQL, Azure, Kubernetes, Terraform
 
 ### [thelab](https://thelab.co)
 2016 - 2022
