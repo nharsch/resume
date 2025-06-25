@@ -10,7 +10,7 @@
 * Main technical liaison for clients
 * Requirements gathering, project planning, scoping new features
 * Sprint planning and management
-* Tools used: Redmine, Memaid.js, Playwright, Obsidian, Grafana
+* Tools used: Redmine, Memaid.js, Playwright, Obsidian, Grafana, Databricks
 
 ## [Cedar Pine Consulting](https://cedarpineconsulting.com)
 2022 - Present
